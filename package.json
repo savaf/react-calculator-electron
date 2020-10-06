@@ -26,7 +26,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
-    "electron": "8.2.0",
+    "electron": "8.5.1",
     "husky": "^4.2.3",
     "lint-staged": "^10.0.10",
     "normalize.css": "^8.0.1",
